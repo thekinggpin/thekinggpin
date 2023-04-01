@@ -1,10 +1,10 @@
 ### Namaste🙏
 
-I'm Kartikeya, I strive to create customer centric software. Being a former SDE at Amazon.com, I'm a seasoned backend developer who talks Java. ☕ 
-I love to learn! I'm currently learning:
--💄 My UXD to Front End Developement Skills [Check this!](https://www.ramkartikeya.com)
--🥅 Explainable AI
--⛓️ BlockChain DApps
+I'm Kartikeya, I strive to create customer centric software. Being a former SDE at Amazon.com, I'm a seasoned developer who talks Java. ☕ 
+
+I love to learn! 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **thekinggpin/thekinggpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
