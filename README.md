@@ -1,7 +1,10 @@
-### Hi there 👋
-Namaste!
+### Namaste🙏
 
-##currently working on this!
+I'm Kartikeya, I strive to create customer centric software. Being a former SDE at Amazon.com, I'm a seasoned backend developer who talks Java. ☕ 
+I love to learn! I'm currently learning:
+-💄 My UXD to Front End Developement Skills [Check this!](https://www.ramkartikeya.com)
+-🥅 Explainable AI
+-⛓️ BlockChain DApps
 <!--
 **thekinggpin/thekinggpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
