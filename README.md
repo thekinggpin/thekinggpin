@@ -1,6 +1,6 @@
 ### Namaste🙏
 
-I'm Kartikeya,a seasoned developer who talks Java. ☕ 
+I'm Kartikeya, a seasoned developer who talks Java. ☕ 
 
 I love to learn! 
 
