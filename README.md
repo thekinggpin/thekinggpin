@@ -1,6 +1,6 @@
 ### Namaste🙏
 
-I'm Kartikeya, I strive to create customer centric software. Being a former SDE at Amazon.com, I'm a seasoned developer who talks Java. ☕ 
+I'm Kartikeya,a seasoned developer who talks Java. ☕ 
 
 I love to learn! 
 
